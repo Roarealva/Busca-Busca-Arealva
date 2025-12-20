@@ -1,0 +1,7 @@
+{
+  "name": "Busca Busca Arealva",
+  "description": "Plataforma de locação e venda de imóveis com integração de pagamentos PIX e painel administrativo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
